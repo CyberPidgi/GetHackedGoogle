@@ -1,0 +1,7 @@
+find_text func:
+* use the area to calculate the highest probable text area ... mainly cause the text area would ahve the greatest area
+* last resort :- take a point in the center and find the closest pixel that is black
+
+
+project finished at 14/ 05/ 21:
+used the greatest area idea .... still struggles with multiple texts .... u might as well give up on that idea.
